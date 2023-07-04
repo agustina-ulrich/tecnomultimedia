@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net" modified="2023-07-04T02:15:51.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hrz5_yL4Ma77r6ixtjjp" version="21.5.2" type="device">
+  <diagram name="Página-1" id="s3IIUJXlmX42EVTlaKc5">
+    <mxGraphModel dx="1687" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EV8u2zak8qNbzh9je61p-1" value="&quot;El gato con Botas&quot; Charles Perrault&lt;br&gt;Agustina Ulrich - Leg 93543/9&lt;br&gt;TP3 de Tecnologia Multimedial, Comision 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="20" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV8u2zak8qNbzh9je61p-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-8" value="Lo lleva a la casa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EV8u2zak8qNbzh9je61p-7">
+          <mxGeometry x="0.1559" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-2" value="P01 =&lt;br&gt;Mario adopta un gato" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV8u2zak8qNbzh9je61p-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-10" value="lo acepta igual" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EV8u2zak8qNbzh9je61p-9">
+          <mxGeometry x="-0.1056" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV8u2zak8qNbzh9je61p-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-19" value="lo deja&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EV8u2zak8qNbzh9je61p-18">
+          <mxGeometry x="-0.0604" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-3" value="P02= El gato HABLA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EV8u2zak8qNbzh9je61p-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-11" value="P03= El gato le agradece y lo ayuda con el rey" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EV8u2zak8qNbzh9je61p-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-33" value="puerta a" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EV8u2zak8qNbzh9je61p-15">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV8u2zak8qNbzh9je61p-12" target="EV8u2zak8qNbzh9je61p-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-32" value="puerta b" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EV8u2zak8qNbzh9je61p-31">
+          <mxGeometry x="-0.125" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-12" value="P04= Van para el castillo de un gigante&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EV8u2zak8qNbzh9je61p-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-13" value="P05=Derrota al gigante y mario queda como un ganador" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-14" value="P06= Final feliz se casa con la hija del rey" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV8u2zak8qNbzh9je61p-20" target="EV8u2zak8qNbzh9je61p-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-24" value="Buscar familia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EV8u2zak8qNbzh9je61p-21">
+          <mxGeometry x="-0.12" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-20" value="P07= Gato busca familia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV8u2zak8qNbzh9je61p-22" target="EV8u2zak8qNbzh9je61p-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-22" value="P08 = Nadie lo quiere&lt;br&gt;Depresion total" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV8u2zak8qNbzh9je61p-23" target="EV8u2zak8qNbzh9je61p-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-29" value="Come algo del piso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EV8u2zak8qNbzh9je61p-28">
+          <mxGeometry x="-0.0667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-23" value="P09= Pasea solo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-27" value="P10= Final triste Muere intoxicado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV8u2zak8qNbzh9je61p-30" target="EV8u2zak8qNbzh9je61p-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-30" value="P11= se mete por un tunel de colores" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EV8u2zak8qNbzh9je61p-34" target="EV8u2zak8qNbzh9je61p-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-40" value="camina" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EV8u2zak8qNbzh9je61p-37">
+          <mxGeometry x="-0.275" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-34" value="P12= entra en el GATOVERSO" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV8u2zak8qNbzh9je61p-36" value="P13= se encuentra con otro gato con botas (el de shrek)&lt;br&gt;y le muestra su universo" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="546" y="710" width="136" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
